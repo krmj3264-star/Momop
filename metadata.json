@@ -1,0 +1,8 @@
+{
+  "name": "Food Ingredient Analyzer",
+  "description": "An application to analyze food product ingredients for risks, warnings, and allergens using the Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
